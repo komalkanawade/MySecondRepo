@@ -25,6 +25,8 @@
 
             Console.WriteLine(s2.getDatabaseObject().StringGet("person"));
 
+            Console.WriteLine("Added new changes");
+
             Console.ReadLine();
 
         }
